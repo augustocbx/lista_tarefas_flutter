@@ -1,6 +1,7 @@
 # lista_tarefas_flutter
 
 Aplicação feita acompanhando o curso:
+
 https://www.udemy.com/curso-completo-flutter-app-android-ios
 
 ## Getting Started
